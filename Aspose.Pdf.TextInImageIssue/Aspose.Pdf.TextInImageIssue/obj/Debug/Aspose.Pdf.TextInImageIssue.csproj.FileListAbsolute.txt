@@ -1,0 +1,10 @@
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\bin\Debug\Aspose.Pdf.TextInImageIssue.exe.config
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\bin\Debug\Aspose.Pdf.TextInImageIssue.exe
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\bin\Debug\Aspose.Pdf.TextInImageIssue.pdb
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\bin\Debug\Aspose.Pdf.dll
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\obj\Debug\Aspose.Pdf.TextInImageIssue.csprojResolveAssemblyReference.cache
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\obj\Debug\Aspose.Pdf.TextInImageIssue.Form1.resources
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\obj\Debug\Aspose.Pdf.TextInImageIssue.Properties.Resources.resources
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\obj\Debug\Aspose.Pdf.TextInImageIssue.csproj.GenerateResource.Cache
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\obj\Debug\Aspose.Pdf.TextInImageIssue.exe
+c:\users\padenekan\documents\visual studio 2015\Projects\Aspose.Pdf.TextInImageIssue\Aspose.Pdf.TextInImageIssue\obj\Debug\Aspose.Pdf.TextInImageIssue.pdb
